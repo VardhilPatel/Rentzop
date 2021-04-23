@@ -28,9 +28,9 @@ function Footer (props) {
                     <div className="col-4 col-sm-5">
                         <h5>Our Address</h5>
                         <address>
-                            121, Clear Water Bay Road<br />
-		                    Clear Water Bay, Kowloon<br />
-		                    HONG KONG<br />
+                            F11 D-Block Sabar Hostel<br />
+		                    Majra chowkdi, Prantij<br />
+		                    Gujarat, India<br />
                             <span ><FaPhone /> </span>&nbsp;
                             <i className="fa fa-phone fa-lg"></i>
                             <FaFax /> &nbsp;
